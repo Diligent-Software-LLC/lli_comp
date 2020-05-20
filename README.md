@@ -9,8 +9,15 @@ A LinkedListIterator composition. Composites the Interface and Implementation.
 
 ## Documentation
 
-- Refer Composition's 
-[Homepage](https://docs.diligentsoftware.org/linkedlist-1/iterator#composition).
+### Interface
+
+- Refer Interface's 
+[Homepage](https://docs.diligentsoftware.org/linkedlist-1/iterator/interface).
+
+### Implementation
+
+- Refer Implementation's 
+[Homepage](https://docs.diligentsoftware.org/linkedlist-1/iterator/implementation).
 
 ## Contributing
 

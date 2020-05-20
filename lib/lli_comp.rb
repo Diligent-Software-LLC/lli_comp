@@ -2,10 +2,12 @@
 # under the GNU General Public License, Version 3. Refer LICENSE.txt.
 
 require_relative "lli_comp/version"
+require 'linked_list_iterator_int'
+require 'linked_list_iterator_impl'
 
 # LLIComposition.
 # @class_description
-#   A LinkedListIterator composition. Composites the Interface and Implementation.
+#   A LinkedListIterator composition. Composites the Interface and
+#   Implementation.
 class LLIComposition
 end
-
